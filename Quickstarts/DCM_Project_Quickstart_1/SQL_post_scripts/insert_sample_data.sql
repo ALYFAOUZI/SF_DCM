@@ -1,4 +1,4 @@
--- ### Insert Sample Data
+-- ### Insert Sample Data Incha ALLAH
 
 insert into DCM_DEMO_1{{env_suffix}}.RAW.TRUCK 
 values
